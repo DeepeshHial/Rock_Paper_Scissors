@@ -1,4 +1,5 @@
 Rock, Paper, Scissors Game
+
 A simple Rock, Paper, Scissors game built with React.js. Play against the computer and track your scores in real-time.
 
 Features
