@@ -11,7 +11,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/DeepeshHial/Rock_Paper_Scissors
 cd rock-paper-scissors
 Install dependencies:
 
